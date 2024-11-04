@@ -11,6 +11,17 @@ spec:
   type: service
   owner: john@example.com
   lifecycle:  production
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: idp-test
+  annotations:
+    github.com/project-slug: nilaykcaba/idp-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jenkinslocal
 #apiVersion: backstage.io/v1alpha1
 #kind: Component
 #metadata:
