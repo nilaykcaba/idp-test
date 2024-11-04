@@ -6,7 +6,7 @@ metadata:
     github.com/project-slug: nilaykcaba/idp-test
 spec:
   type: service
-  lifecycle: unknown
+  lifecycle: experimental
 #apiVersion: backstage.io/v1alpha1
 #kind: Component
 #metadata:
