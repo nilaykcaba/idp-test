@@ -5,9 +5,8 @@ metadata:
   annotations:
     github.com/project-slug: nilaykcaba/idp-test
 spec:
-  type: other
+  type: service
   lifecycle: unknown
-  owner: nilaykcaba
 #apiVersion: backstage.io/v1alpha1
 #kind: Component
 #metadata:
